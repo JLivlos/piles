@@ -1,0 +1,39 @@
+[
+{
+    "img": "assets/calculations/gas1.jpg",
+    "type": "gas",
+    "title": "Фундамент под дом из газблока",
+    "content": "сваи &Oslash;108мм длиной 2000мм - 13 штук",
+    "price": "Стоимость с монтажом, без обвязки:<br><span class='calc__item__price-value'>2400</span> руб"
+},{
+    "img": "assets/calculations/gas2.jpg",
+    "type": "gas",
+    "title": "Фундамент под дом из газблока",
+    "content": "сваи &Oslash;108мм длиной 2000мм - 18 штук",
+    "price": "Стоимость с монтажом: <span class='calc__item__price-value'>3500</span> руб<br>Обвязка швеллером №24: <span class='calc__item__price-value'>6300</span> руб<br>Стоимость под ключ: <span class='calc__item__price-value'>9800</span> руб"
+},{
+    "img": "assets/calculations/gas3.jpg",
+    "type": "gas",
+    "title": "Под дом 9х9м из газблока с террасой",
+    "content": "сваи &Oslash;108мм длиной 2000мм - 26 штук<br>сваи &Oslash;76мм длиной 2000мм - 2 штуки<br>оголовки 150х150мм - 2 штуки",
+    "price": "Стоимость с монтажом: <span class='calc__item__price-value'>5400</span> руб<br>Обвязка швеллером №24: <span class='calc__item__price-value'>7500</span> руб"
+},{
+    "img": "assets/calculations/gas4.jpg",
+    "type": "gas",
+    "title": "Пристройка к дому из блоков (без обвязки)",
+    "content": "сваи &Oslash;108мм длиной 2500мм - 7 штук",
+    "price": "Стоимость под ключ: <span class='calc__item__price-value'>1600</span> руб"
+},{
+    "img": "assets/calculations/gas5.jpg",
+    "type": "gas",
+    "title": "Фундамент под дом из газблока",
+    "content": "сваи &Oslash;108мм длиной 2000мм - 18 штук<br>сваи &Oslash;89мм длиной 2000мм - 2 штуки<br>сваи &Oslash;76мм длиной 2000мм - 4 штуки<br>оголовки 150х150мм - 4 штуки",
+    "price": "Стоимость с монтажом, без обвязки:<br><span class='calc__item__price-value'>4250</span> руб"
+},{
+    "img": "assets/calculations/gas6.jpg",
+    "type": "gas",
+    "title": "Пристройка к дому из блоков",
+    "content": "сваи &Oslash;108мм длиной 2000мм - 15 штук<br>оголовки 200х200мм - 2 штуки",
+    "price": "Стоимость с монтажом: <span class='calc__item__price-value'>3750</span> руб<br>Обвязка швеллером №24: <span class='calc__item__price-value'>4210</span> руб<br>Стоимость под ключ: <span class='calc__item__price-value'>7960</span> руб"
+}
+]

@@ -1,0 +1,39 @@
+[
+{
+    "img": "assets/calculations/frame_house1.jpg",
+    "type": "frame",
+    "title": "Фундамент под каркасный дом 10х10м",
+    "content": "сваи &Oslash;89мм длиной 2м - 25 штук<br>оголовки 200х200мм - 25 штук",
+    "price": "Стоимость под ключ: <span class='calc__item__price-value'>4550</span> руб</p>"
+},{
+    "img": "assets/calculations/frame_house2.jpg",
+    "type": "frame",
+    "title": "Фундамент под домик и террасу",
+    "content": "сваи &Oslash;76мм длиной 1,5м - 6 штук<br>сваи &Oslash;57мм длиной 1,5м - 14 штук<br>оголовки 150x150мм - 20 штук",
+    "price": "Стоимость под ключ: <span class='calc__item__price-value'>2300</span> руб</p>"
+},{
+    "img": "assets/calculations/frame_house3.jpg",
+    "type": "frame",
+    "title": "Фундамент под пристройку к дому",
+    "content": "сваи &Oslash;57мм длиной 1,5м - 8 штук<br>оголовки 100х100мм - 8 штук",
+    "price": "Стоимость под ключ: <span class='calc__item__price-value'>840</span> руб</p>"
+},{
+    "img": "assets/calculations/frame_house4.jpg",
+    "type": "frame",
+    "title": "Фундамент под каркасный дом с печкой из кирпича",
+    "content": "сваи &Oslash;89мм длиной 2,5м - 14 штук<br>оголовки 200х200мм - 14 штук",
+    "price": "Стоимость под ключ: <span class='calc__item__price-value'>2900</span> руб</p>"
+},{
+    "img": "assets/calculations/frame_house5.jpg",
+    "type": "frame",
+    "title": "Фундамент под каркасный дом 8х8м",
+    "content": "сваи &Oslash;89 длиной 2м - 20 штук<br>оголовки 150х150мм - 20 штук",
+    "price": "Стоимость под ключ: <span class='calc__item__price-value'>3540</span> руб</p>"
+},{
+    "img": "assets/calculations/frame_house6.jpg",
+    "type": "frame",
+    "title": "Фундамент под дом с мансардой",
+    "content": "сваи &Oslash;89мм длиной 2,5м - 20 штук<br>оголовки 200х200мм - 20 штук",
+    "price": "Стоимость под ключ: <span class='calc__item__price-value'>4190</span> руб</p>"
+}
+]

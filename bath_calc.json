@@ -1,0 +1,39 @@
+[
+{
+    "img": "assets/calculations/bath1.jpg",
+    "type": "bath",
+    "title": "Баня 6х12м",
+    "content": "сваи &Oslash;108мм длиной 2м - 8 штук<br>сваи &Oslash;76мм длиной 2м - 13 штук<br>оголовки 200х200мм - 21 штука",
+    "price": "Стоимость под ключ: <span class='calc__item__price-value'>3800</span> руб</p>"
+},{
+    "img": "assets/calculations/bath2.jpg",
+    "type": "bath",
+    "title": "Баня 4х4м",
+    "content": "сваи &Oslash;89мм длиной 2м - 9 штук<br>оголовки 200x200мм - 9 штук",
+    "price": "Стоимость под ключ: <span class='calc__item__price-value'>1630</span> руб</p>"
+},{
+    "img": "assets/calculations/bath3.jpg",
+    "type": "bath",
+    "title": "Баня 6х6м с перерубом",
+    "content": "сваи &Oslash;89мм длиной 2м - 16 штук<br>оголовки 200х200мм - 16 штук",
+    "price": "Стоимость под ключ: <span class='calc__item__price-value'>2890</span> руб</p>"
+},{
+    "img": "assets/calculations/bath4.jpg",
+    "type": "bath",
+    "title": "Фундамент 5,7х1,7м под баню-бочку",
+    "content": "сваи &Oslash;57мм длиной 2м - 10 штук<br>оголовки 100х100мм - 10 штук",
+    "price": "Стоимость под ключ: <span class='calc__item__price-value'>1260</span> руб</p>"
+},{
+    "img": "assets/calculations/bath5.jpg",
+    "type": "bath",
+    "title": "Баня 6х3м",
+    "content": "сваи &Oslash;89 длиной 2м - 8 штук<br>оголовки 150х150мм - 8 штук",
+    "price": "Стоимость под ключ: <span class='calc__item__price-value'>1420</span> руб</p>"
+},{
+    "img": "assets/calculations/bath6.jpg",
+    "type": "bath",
+    "title": "Баня 5,5х3м",
+    "content": "сваи &Oslash;89мм длиной 2м - 12 штук<br>оголовки 200х200мм - 12 штук",
+    "price": "Стоимость под ключ: <span class='calc__item__price-value'>2170</span> руб</p>"
+}
+]

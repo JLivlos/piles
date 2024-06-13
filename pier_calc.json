@@ -1,0 +1,39 @@
+[
+{
+    "img": "assets/calculations/pier1.jpg",
+    "type": "pier",
+    "title": "Пирс 3х4м",
+    "content": "сваи &Oslash;76мм от 4 до 4,5м - 10 штук<br>сваи &Oslash;57мм длиной 2м - 2 штуки<br>оголовки 150х150мм - 12 штук<br>каркас из профильной трубы 60х40мм",
+    "price": "Стоимость под ключ: <span class='calc__item__price-value'>5500</span> руб</p>"
+},{
+    "img": "assets/calculations/pier2.jpg",
+    "type": "pier",
+    "title": "Пирс 10м",
+    "content": "сваи &Oslash;89мм от 4,5 до 5м - 7 штук<br>сваи &Oslash;76мм от 3 до 3,5м - 4 штуки<br>оголовки 100x100мм - 11 штук<br>каркас пирса из профильной трубы 60х40мм с раскосами из профильной трубы 40х40мм",
+    "price": "Стоимость под ключ: <span class='calc__item__price-value'>6500</span> руб</p>"
+},{
+    "img": "assets/calculations/pier3.jpg",
+    "type": "pier",
+    "title": "Пирс",
+    "content": "сваи &Oslash;89мм от 4,5 до 5м - 6 штук<br>сваи &Oslash;76мм от 2 до 4м - 10 штук<br>оголовки 100х100мм - 16 штук<br>каркас из профильной трубы 60х40мм с раскосами из 40х40мм",
+    "price": "Стоимость под ключ: <span class='calc__item__price-value'>7800</span> руб</p>"
+},{
+    "img": "assets/calculations/pier4.jpg",
+    "type": "pier",
+    "title": "Пирс",
+    "content": "сваи &Oslash;89мм от 4 до 4,5м - 6 штук<br>сваи &Oslash;76мм от 2 до 3м - 6 штук<br>оголовки 100х100мм - 12 штук<br>каркас из трубы 60х40мм с раскосами из 40х40мм",
+    "price": "Стоимость под ключ: <span class='calc__item__price-value'>4750</span> руб</p>"
+},{
+    "img": "assets/calculations/pier5.jpg",
+    "type": "pier",
+    "title": "Пирс из уголка на трубах 160",
+    "content": "сваи &Oslash;76мм длиной 2м - 14 штук<br>оголовки 100х100мм - 14 штук<br>каркас из уголка 50х50мм",
+    "price": "Стоимость под ключ: <span class='calc__item__price-value'>4200</span> руб</p>"
+},{
+    "img": "assets/calculations/pier6.jpg",
+    "type": "pier",
+    "title": "Пирс 10м",
+    "content": "Каркас пирса на винтовых сваях.<br>Комплект из 13 винтовых свай &Oslash;89мм длиной от 2 до 4,5м с оголовками 200х200мм.<br>13 свай &Oslash;57мм длиной 2м с оголовками 150х150мм.<br>Каркас пирса из профильной трубы 60х40мм.<br>Каркас лестницы из профильной трубы 60х40мм, 40х40мм.",
+    "price": "Стоимость под ключ: <span class='calc__item__price-value'>15600</span> руб</p>"
+}
+]

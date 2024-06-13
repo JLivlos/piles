@@ -1,0 +1,180 @@
+[{
+        "src": "assets/slider/found1.jpg",
+        "type": "foundation",
+        "orient": "vertical"
+    },
+    {
+        "src": "assets/slider/found2.jpg",
+        "type": "foundation",
+        "orient": "vertical"
+    },
+    {
+        "src": "assets/slider/found3.jpg",
+        "type": "foundation",
+        "orient": "vertical"
+    },
+    {
+        "src": "assets/slider/found4.jpg",
+        "type": "foundation",
+        "orient": "vertical"
+    },
+    {
+        "src": "assets/slider/found5.jpg",
+        "type": "foundation",
+        "orient": "vertical"
+    },
+    {
+        "src": "assets/slider/found6.jpg",
+        "type": "foundation",
+        "orient": "vertical"
+    },
+    {
+        "src": "assets/slider/found7.jpg",
+        "type": "foundation",
+        "orient": "horizontal"
+    },
+    {
+        "src": "assets/slider/found8.jpg",
+        "type": "foundation",
+        "orient": "horizontal"
+    },
+    {
+        "src": "assets/slider/found9.jpg",
+        "type": "foundation",
+        "orient": "horizontal"
+    },
+    {
+        "src": "assets/slider/found10.jpg",
+        "type": "foundation",
+        "orient": "horizontal"
+    },
+    {
+        "src": "assets/slider/found11.jpg",
+        "type": "foundation",
+        "orient": "horizontal"
+    },
+    {
+        "src": "assets/slider/found12.jpg",
+        "type": "foundation",
+        "orient": "horizontal"
+    },
+    {
+        "src": "assets/slider/found13.jpg",
+        "type": "foundation",
+        "orient": "horizontal"
+    },
+    {
+        "src": "assets/slider/found14.jpg",
+        "type": "foundation",
+        "orient": "horizontal"
+    },
+    {
+        "src": "assets/slider/found15.jpg",
+        "type": "foundation",
+        "orient": "horizontal"
+    },
+    {
+        "src": "assets/slider/found16.jpg",
+        "type": "foundation",
+        "orient": "horizontal"
+    },
+    {
+        "src": "assets/slider/found17.jpg",
+        "type": "foundation",
+        "orient": "horizontal"
+    },
+    {
+        "src": "assets/slider/found18.jpg",
+        "type": "foundation",
+        "orient": "horizontal"
+    },{
+        "src": "assets/slider/pier1.jpg",
+        "type": "pier",
+        "orient": "vertical"
+    },
+    {
+        "src": "assets/slider/pier2.jpg",
+        "type": "pier",
+        "orient": "vertical"
+    },
+    {
+        "src": "assets/slider/pier3.jpg",
+        "type": "pier",
+        "orient": "vertical"
+    },
+    {
+        "src": "assets/slider/pier4.jpg",
+        "type": "pier",
+        "orient": "vertical"
+    },
+    {
+        "src": "assets/slider/pier5.jpg",
+        "type": "pier",
+        "orient": "vertical"
+    },
+    {
+        "src": "assets/slider/pier6.jpg",
+        "type": "pier",
+        "orient": "horizontal"
+    },
+    {
+        "src": "assets/slider/pier7.jpg",
+        "type": "pier",
+        "orient": "horizontal"
+    },
+    {
+        "src": "assets/slider/pier8.jpg",
+        "type": "pier",
+        "orient": "horizontal"
+    },
+    {
+        "src": "assets/slider/pier9.jpg",
+        "type": "pier",
+        "orient": "horizontal"
+    },
+    {
+        "src": "assets/slider/pier10.jpg",
+        "type": "pier",
+        "orient": "horizontal"
+    },
+    {
+        "src": "assets/slider/pier11.jpg",
+        "type": "pier",
+        "orient": "horizontal"
+    },
+    {
+        "src": "assets/slider/pier12.jpg",
+        "type": "pier",
+        "orient": "horizontal"
+    },
+    {
+        "src": "assets/slider/pier13.jpg",
+        "type": "pier",
+        "orient": "horizontal"
+    },
+    {
+        "src": "assets/slider/pier14.jpg",
+        "type": "pier",
+        "orient": "horizontal"
+    },
+    {
+        "src": "assets/slider/pier15.jpg",
+        "type": "pier",
+        "orient": "horizontal"
+    },
+    {
+        "src": "assets/slider/pier16.jpg",
+        "type": "pier",
+        "orient": "horizontal"
+    },
+    {
+        "src": "assets/slider/pier17.jpg",
+        "type": "pier",
+        "orient": "horizontal"
+    },
+    {
+        "src": "assets/slider/pier18.jpg",
+        "type": "pier",
+        "orient": "horizontal"
+    }
+]
