@@ -916,7 +916,6 @@ label {
     width: 365px;
   }
   .calc__item__price {
-    width: 365px;
     font-size: 18px;
     text-align: center;
   }
@@ -999,7 +998,6 @@ label {
     width: 350px;
   }
   .calc__item__price {
-    width: 275px;
     font-size: 16px;
   }
   .gallery__items__visible {
