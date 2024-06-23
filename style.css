@@ -1167,6 +1167,10 @@ label {
     width: 400px;
     margin-left: calc(50% - 200px);
   }
+  .prices__item {
+    justify-content: flex-end;
+    gap: 10px;
+  }
   .calc__buttons {
     width: 510px;
     margin-left: calc(50% - 255px);
