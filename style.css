@@ -388,6 +388,14 @@ h1 {
   cursor: context-menu;
 }
 
+.order-form__input::placeholder {
+  opacity: 0.5;
+}
+
+.order-form__input:focus::placeholder {
+  opacity: 0;
+}
+
 .order-form__input,
 .order-form__submit {
   height: 50px;
